@@ -1,7 +1,5 @@
 # Hey there!👋🏾
 
-[![Website Badge](https://img.shields.io/badge/-bolajiayodeji.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://bolajiayodeji.com)](https://bolajiayodeji.com) [![Linkedin Badge](https://img.shields.io/badge/-iambolajiayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iambolajiayo)](https://www.linkedin.com/in/iambolajiayo)
-
 I'm learning to be a Software Developer
 
 **Here's a quick summary about me**:
