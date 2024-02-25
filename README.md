@@ -1,4 +1,4 @@
-# Hey there!👋🏾
+# Hey there!
 
 I'm learning to be a Software Developer
 
